@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Туризм">
+        <item>Спортивный</item>
+        <item>Этнический</item>
+        <item>Образовательный</item>
+    </string-array>
+
+    <string-array name="Город">
+        <item>Алмата</item>
+        <item>Астана</item>
+        <item>Туркестан</item>
+        <item>Шымкент</item>
+    </string-array>
+
+    <string-array name="Время">
+        <item>Утром</item>
+        <item>Днем</item>
+        <item>Вечер</item>
+        <item>Ночью</item>
+    </string-array>
+
+    <string-array name="Сложность">
+        <item>Легкая</item>
+        <item>Средняя</item>
+        <item>Сложная</item>
+    </string-array>
+
+    <!-- Add more string arrays as needed -->
+
+</resources>

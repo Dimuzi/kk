@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#CCCCCC"
+    android:layout_gravity="bottom">
+
+    <!-- Магазин -->
+    <Button
+        android:id="@+id/btnShop"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Магазин"
+        android:gravity="center"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="#000000" />
+
+    <!-- Главная -->
+    <Button
+        android:id="@+id/btnMain"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Главная"
+        android:gravity="center"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="#000000" />
+
+
+
+    <!-- Игра -->
+    <Button
+        android:id="@+id/btnGame"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Игра"
+        android:gravity="center"
+        android:background="?android:attr/selectableItemBackground"
+        android:textColor="#000000" />
+</LinearLayout>
